@@ -4,6 +4,8 @@
 ## Projeto baseado na aula "Criando seu jogo no estilo Space Shooter".
 ## Fiz alteração na cor do fundo da página.
 
+## *Os requisitos são:*
+
 ### HTML básico
 ### CSS básico
 ### Javascript básico
